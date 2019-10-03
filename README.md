@@ -1,2 +1,2 @@
 # verbose-dollop
-A repository that contains things i learnt during Android workshop 
+A repository containing the things I learned during android workshop. 
